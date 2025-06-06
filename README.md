@@ -3,7 +3,7 @@
 
 ## Descrição do Projeto
 
-Este projeto implementa um sistema de linha de comando em C++ para cadastrar e consultar relatos sobre catástrofes naturais ocorridas em um raio de até 10 km de um ponto de referência. A aplicação permite registrar informações detalhadas sobre o relator e a ocorrência, armazenando os dados de forma persistente em um arquivo de texto (`relatos_catastrofes.txt`).
+Este projeto implementa um sistema de linha de comando em C para cadastrar e consultar relatos sobre catástrofes naturais ocorridas em um raio de até 10 km de um ponto de referência. A aplicação permite registrar informações detalhadas sobre o relator e a ocorrência, armazenando os dados de forma persistente em um arquivo de texto (`relatos_catastrofes.txt`).
 
 O sistema foi desenvolvido como parte da disciplina de Estrutura de Dados e Algoritmos (adaptado do enunciado original de Técnicas Avançadas de Programação) do curso de Ciência da Computação da FIAP.
 
